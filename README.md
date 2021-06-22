@@ -6,6 +6,8 @@ The simulation itself runs in its own threaded app, the clock speed of which can
 
 This application is particularly suitable for testing search and wayfinding algorithms.
 
+![screenshot](https://github.com/niklas-holtz/hero-programming-world/blob/main/hero-sim-screennshot.png?raw=true)
+
 ## Methods that can control the character
 
 - void walk(): Makes the hero walk forward in his line of sight.
