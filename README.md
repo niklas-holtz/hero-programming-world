@@ -1,1 +1,0 @@
-# hero-programming-world
